@@ -1,0 +1,4 @@
+                                  ----(ETL prpcress to extract data from file )----------
+
+dataframe = pd.read_csv(r"C:\Users\ashut\OneDrive\Documents\pandas\Detial_record.rpt",sep='|')
+df=pd.DataFrame(dataframe)
